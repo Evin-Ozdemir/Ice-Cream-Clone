@@ -6,7 +6,8 @@
  <p>Watch the video to see how the project works! 👇</p>
    
 
-![Zight Recording 2025-05-23 at 02 23 16 PM](https://github.com/user-attachments/assets/a8656eb8-027f-411b-b0e6-30767218f4cc)
+![Zight Recording 2025-06-19 at 11 04 27 AM](https://github.com/user-attachments/assets/fcbd5627-f9f8-44e5-a0c3-216abcb9c92b)
+
 
 
 
