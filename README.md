@@ -11,6 +11,7 @@ This project offers a simple and effective e-commerce experience with modern web
 
 ![Zight Recording 2025-06-19 at 11 04 27 AM](https://github.com/user-attachments/assets/fcbd5627-f9f8-44e5-a0c3-216abcb9c92b)
 
+![Zight Recording 2025-06-19 at 11 14 57 AM](https://github.com/user-attachments/assets/6af8998c-1914-420d-bf39-8c911e8e3eb4)
 
 
 
